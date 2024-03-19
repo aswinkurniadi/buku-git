@@ -5,4 +5,5 @@ Bersama Aswin Kurniadi
 
 KODE PERINTAH DASAR GIT
 
-Upload Projek
+git init
+git remote add origin https://github.com/aswinkurniadi/buku-git.git
