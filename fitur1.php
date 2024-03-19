@@ -1,5 +1,7 @@
 <?php 
 
+echo "fitur E";
+
 echo "fitur D";
 
 echo "fitur C";
