@@ -14,4 +14,6 @@ git remote -v
 
 git add .
 
-git branch fitura
+git branch 
+
+fitur a
