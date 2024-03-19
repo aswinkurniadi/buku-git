@@ -9,3 +9,5 @@ git init
 git remote add origin https://github.com/aswinkurniadi/perintah-git.git
 
 git remote -v
+
+git add .
