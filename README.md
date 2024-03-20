@@ -16,4 +16,6 @@ git add .
 
 git branch 
 
-fitur a
+git checkout fitur3
+
+git branch -d fitur3
